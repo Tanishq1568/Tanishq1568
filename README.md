@@ -10,31 +10,35 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Azure+Developer+Associate+Student;React+%7C+Next.js+Developer;AI+Powered+Application+Builder;Always+Learning+New+Technologies" />
 </p>
 
-## About Me
-- 🌱 Learning Azure Development
-- 💻 Web Developer
-- ☁️ Working with Microsoft Azure
-- 🤖 Interested in AI Applications
-- 🚀 Building Full Stack Projects
+## 🚀 About Me
+
+- 🎓 B.Tech Student at Arya College of Engineering
+- 💻 Full Stack Web Developer
+- ☁️ Learning Microsoft Azure & Cloud Technologies
+- 🤖 Building AI Powered Applications
+- 🌱 Currently Learning Next.js, Azure & Generative AI
 
 ## Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
 
-### Backend
-- Node.js
-- Express.js
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,fastapi,npm" />
+</p>
 
-### Database
-- MongoDB
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### Cloud
-- Microsoft Azure
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,git,nginx,azure" />
+</p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman" />
+</p>
 
 ## Projects
 ### TravelSathi
