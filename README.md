@@ -36,6 +36,3 @@ Automated code review using AI.
 ### Auto Billing & Recurring Payments
 Smart contract project using Solidity.
 
-## Connect With Me
-LinkedIn: Your LinkedIn URL
-Email: your@email.com
