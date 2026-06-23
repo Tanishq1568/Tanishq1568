@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Tanishq Garg
 
-<!--
-**Tanishq1568/Tanishq1568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Learning Azure Development
+- 💻 Web Developer
+- ☁️ Working with Microsoft Azure
+- 🤖 Interested in AI Applications
+- 🚀 Building Full Stack Projects
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Cloud
+- Microsoft Azure
+
+## Projects
+### TravelSathi
+AI-powered travel safety and smart guide.
+
+### AI Code Review Assistant
+Automated code review using AI.
+
+### Auto Billing & Recurring Payments
+Smart contract project using Solidity.
+
+## Connect With Me
+LinkedIn: Your LinkedIn URL
+Email: your@email.com
