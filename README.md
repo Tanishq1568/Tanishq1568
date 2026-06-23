@@ -62,5 +62,13 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Tanishq1568&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1568&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq1568&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanishq1568&theme=tokyonight&row=2&column=4" />
+
 
 
