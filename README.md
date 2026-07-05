@@ -63,7 +63,7 @@
 </p>
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake.svg)
 
   ## 📈 Contribution Graph
 
@@ -117,8 +117,8 @@ A modern and responsive hotel landing page showcasing rooms, amenities, booking 
 **Description:**  
 A real estate landing page designed to display premium properties, featured listings, pricing details, and contact information in a professional layout.
 
-🔗 Live Demo: [Add Link Here](#)  
-💻 GitHub: [Add Repository Link Here](#)
+🔗 Live Demo: [Property_Landing_Page](https://singhal-property.vercel.app/)  
+💻 GitHub: [Property-Landing-Page](https://github.com/Tanishq1568/Singhal-property)
 
 #### Screenshot
 ![Property Landing Page Screenshot](./screenshots/estate.png)
