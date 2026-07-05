@@ -61,16 +61,19 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1568&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1568&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Tanishq1568&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Tanishq1568&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+  ## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanishq1568&theme=tokyo-night)](https://github.com/Tanishq1568)
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Tanishq1568&theme=tokyonight" />
+
 
 ## 🚀 Projects
 
