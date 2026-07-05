@@ -62,26 +62,15 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq1568&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanishq1568&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1568&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq1568&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Tanishq1568&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Tanishq1568&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanishq1568&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq1568&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
 
 ## 🚀 Projects
 
