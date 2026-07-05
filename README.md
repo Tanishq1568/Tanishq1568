@@ -11,7 +11,7 @@
   
 </p>
 
-## 🚀 About Me
+🚀 About Me
 
 - 🎓 B.Tech Student at Arya College of Engineering
 - 💻 Full Stack Web Developer
@@ -19,7 +19,7 @@
 - 🤖 Building AI Powered Applications
 - 🌱 Currently Learning Next.js, Azure & Generative AI
 
-## Tech Stack
+Tech Stack
 
 💻 Languages
 <p align="left">
@@ -61,22 +61,21 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake.svg)
 
-  ## 📈 Contribution Graph
+  📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanishq1568&theme=tokyo-night)](https://github.com/Tanishq1568)
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Tanishq1568&theme=tokyonight" />
 
+🚀 Projects
 
-## 🚀 Projects
-
-### 1. Nvidia Ecommerce
+1. Nvidia Ecommerce
 **Description:**  
 A full-stack e-commerce platform built with React, Node.js, Express, and MongoDB. Features product listings, shopping cart functionality, user authentication, and a responsive user interface.
 
@@ -84,53 +83,53 @@ A full-stack e-commerce platform built with React, Node.js, Express, and MongoDB
 💻 GitHub Frontend: [Nvidia-Frontend](https://github.com/Tanishq1568/Nvidia-Frontend)
 💻 GitHub Backend: [Nvidia-Backend](https://github.com/Tanishq1568/Nvidia-Backend)
 
-#### Screenshot
+Screenshot
 ![Nvidia Ecommerce Screenshot](./screenshots/nvidia.png)
 
 ---
 
-### 2. Care Connect
+2. Care Connect
 **Description:**  
 A healthcare management platform designed to connect patients with healthcare providers. Features appointment scheduling, patient record management, doctor listings, and an intuitive user experience for streamlined healthcare services.
 
 🔗 Live Demo: [Care-Connect](https://care-connect-nccs.vercel.app/)  
 💻 GitHub: [Care-Connect](https://github.com/Tanishq1568/Care-Connect)
 
-#### Screenshot
+Screenshot
 ![Care Connect Screenshot](./screenshots/careconnect.png)
 
 ---
 
-### 3. Hotel Landing Page
+3. Hotel Landing Page
 **Description:**  
 A modern and responsive hotel landing page showcasing rooms, amenities, booking options, and customer reviews with an attractive user interface.
 
 🔗 Live Demo: [Landing Page](https://hotel-pearl-heritage.vercel.app/)  
 💻 GitHub: [Hotel-Pearl-Heritage](https://github.com/Tanishq1568/Hotel-Pearl-Heritage)
 
-#### Screenshot
+Screenshot
 ![Hotel Landing Page Screenshot](./screenshots/heritage.png)
 
 ---
 
-### 4. Property Landing Page
+4. Property Landing Page
 **Description:**  
 A real estate landing page designed to display premium properties, featured listings, pricing details, and contact information in a professional layout.
 
 🔗 Live Demo: [Property_Landing_Page](https://singhal-property.vercel.app/)  
 💻 GitHub: [Property-Landing-Page](https://github.com/Tanishq1568/Singhal-property)
 
-#### Screenshot
+Screenshot
 ![Property Landing Page Screenshot](./screenshots/estate.png)
 
 ---
 
-### 5. Personal Portfolio
+5. Personal Portfolio
 **Description:**  
 A personal portfolio website showcasing my skills, projects, certifications, and professional journey with a modern responsive design.
 
 🔗 Live Demo: [Tanishq Garg](https://portfolio-tanishq-garg.vercel.app/)  
 💻 GitHub: [Portfolio-Tanishq_Garg](https://github.com/Tanishq1568/Portfolio-Tanishq_Garg)
 
-#### Screenshot
+Screenshot
 ![Portfolio Screenshot](./screenshots/Portfolio.png)
