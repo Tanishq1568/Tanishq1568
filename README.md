@@ -129,4 +129,4 @@ A personal portfolio website showcasing my skills, projects, certifications, and
 💻 GitHub: [Portfolio-Tanishq_Garg](https://github.com/Tanishq1568/Portfolio-Tanishq_Garg)
 
 #### Screenshot
-![Portfolio Screenshot](./screenshots/portfolio.png)
+![Portfolio Screenshot](./screenshots/Portfolio.png)
