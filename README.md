@@ -77,11 +77,12 @@
 **Description:**  
 A full-stack e-commerce platform built with React, Node.js, Express, and MongoDB. Features product listings, shopping cart functionality, user authentication, and a responsive user interface.
 
-🔗 Live Demo: [Add Link Here](#)  
-💻 GitHub: [Add Repository Link Here](#)
+🔗 Live Demo: [Nvidia-Ecommerce](https://nvidia-fend-three.vercel.app/)  
+💻 GitHub Frontend: [Nvidia-Frontend](https://github.com/Tanishq1568/Nvidia-Frontend)
+💻 GitHub Backend: [Nvidia-Backend](https://github.com/Tanishq1568/Nvidia-Backend)
 
 #### Screenshot
-![Nvidia Ecommerce Screenshot](./screenshots/nvidia-ecommerce.png)
+![Nvidia Ecommerce Screenshot](./screenshots/nvidia.png)
 
 ---
 
@@ -89,11 +90,11 @@ A full-stack e-commerce platform built with React, Node.js, Express, and MongoDB
 **Description:**  
 A healthcare management platform designed to connect patients with healthcare providers. Features appointment scheduling, patient record management, doctor listings, and an intuitive user experience for streamlined healthcare services.
 
-🔗 Live Demo: [Add Link Here](#)  
-💻 GitHub: [Add Repository Link Here](#)
+🔗 Live Demo: [Care-Connect](https://care-connect-nccs.vercel.app/)  
+💻 GitHub: [Care-Connect](https://github.com/Tanishq1568/Care-Connect)
 
 #### Screenshot
-![Care Connect Screenshot](./screenshots/care-connect.png)
+![Care Connect Screenshot](./screenshots/careconnect.png)
 
 ---
 
@@ -101,11 +102,11 @@ A healthcare management platform designed to connect patients with healthcare pr
 **Description:**  
 A modern and responsive hotel landing page showcasing rooms, amenities, booking options, and customer reviews with an attractive user interface.
 
-🔗 Live Demo: [Add Link Here](#)  
-💻 GitHub: [Add Repository Link Here](#)
+🔗 Live Demo: [Landing Page](https://hotel-pearl-heritage.vercel.app/)  
+💻 GitHub: [Hotel-Pearl-Heritage](https://github.com/Tanishq1568/Hotel-Pearl-Heritage)
 
 #### Screenshot
-![Hotel Landing Page Screenshot](./screenshots/hotel-landing-page.png)
+![Hotel Landing Page Screenshot](./screenshots/heritage.png)
 
 ---
 
@@ -117,7 +118,7 @@ A real estate landing page designed to display premium properties, featured list
 💻 GitHub: [Add Repository Link Here](#)
 
 #### Screenshot
-![Property Landing Page Screenshot](./screenshots/property-landing-page.png)
+![Property Landing Page Screenshot](./screenshots/estate.png)
 
 ---
 
