@@ -63,7 +63,9 @@ Tech Stack
 </p>
 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanishq1568/Tanishq1568/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
   📈 Contribution Graph
 
