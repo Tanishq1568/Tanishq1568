@@ -13,7 +13,7 @@
 
 🚀 About Me
 
-- 🎓 B.Tech Student at Arya College of Engineering
+- 🎓 B.Tech Student at Arya College of Engineeri
 - 💻 Full Stack Web Developer
 - ☁️ Learning Microsoft Azure & Cloud Technologies
 - 🤖 Building AI Powered Applications
