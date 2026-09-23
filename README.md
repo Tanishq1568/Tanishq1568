@@ -19,6 +19,12 @@
 - 🤖 Building AI Powered Applications
 - 🌱 Currently Learning Next.js, Azure & Generative AI
 
+  🏆 Certifications
+
+<p align="center"> <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa"> <img src="https://images.credly.com/size/680x680/images/0f6d3e3c-0e7c-4e9b-9c0c-5c1e0e5d8f4f/image.png" width="150" alt="Red Hat Certified System Administrator - RHCSA"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="150" alt="Microsoft Certified Azure Database Administrator Associate - DP-800"/> </p>
+
+<p align="center"> 🔴 <b>Red Hat Certified System Administrator (RHCSA)</b> &nbsp;&nbsp; | &nbsp;&nbsp; 🔵 <b>Microsoft Certified: Azure Database Administrator Associate (DP-800)</b> </p>
+
 Tech Stack
 
 💻 Languages
