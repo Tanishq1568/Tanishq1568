@@ -18,10 +18,12 @@
 - 🤖 Building AI Powered Applications
 - 🌱 Currently Learning Next.js, Azure & Generative AI
 
-  🏆 Certifications
+🏆 Certifications
 
-<p align="center">
-  <img src="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa" width="600" alt="RHCSA and Microsoft SQL AI Developer Associate Certifications">
+  <p align="center">
+  <img src="./rhcsa-animated-badge.gif" width="300" alt="RHCSA"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./sql-ai-developer-animated-badge.gif" width="300" alt="Microsoft Certified SQL AI Developer Associate"/>
 </p>
 
 Tech Stack
