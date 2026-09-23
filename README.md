@@ -21,9 +21,9 @@
 
   🏆 Certifications
 
-<p align="center"> <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa"> <img src="https://images.credly.com/size/680x680/images/0f6d3e3c-0e7c-4e9b-9c0c-5c1e0e5d8f4f/image.png" width="150" alt="Red Hat Certified System Administrator - RHCSA"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="150" alt="Microsoft Certified Azure Database Administrator Associate - DP-800"/> </p>
+<p align="center"> <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa"> <img src="YOUR_RHCSA_BADGE_IMAGE_URL" width="160" alt="Red Hat Certified System Administrator (RHCSA)"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://learn.microsoft.com/en-us/credentials/certifications/developing-ai-enabled-database-solutions/"> <img src="YOUR_DP800_BADGE_IMAGE_URL" width="160" alt="Microsoft Certified: SQL AI Developer Associate"> </a> </p>
 
-<p align="center"> 🔴 <b>Red Hat Certified System Administrator (RHCSA)</b> &nbsp;&nbsp; | &nbsp;&nbsp; 🔵 <b>Microsoft Certified: Azure Database Administrator Associate (DP-800)</b> </p>
+<p align="center"> <b>Red Hat Certified System Administrator (RHCSA)</b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>Microsoft Certified: SQL AI Developer Associate (DP-800)</b> </p>
 
 Tech Stack
 
