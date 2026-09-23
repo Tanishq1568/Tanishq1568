@@ -18,14 +18,6 @@
 - 🤖 Building AI Powered Applications
 - 🌱 Currently Learning Next.js, Azure & Generative AI
 
-🏆 Certifications
-
-  <p align="center">
-  <img src="[./rhcsa-animated-badge.gif](https://chatgpt.com/c/6ab39659-e720-83ee-b035-0ad5748d4ddd)" width="300" alt="RHCSA"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="[./sql-ai-developer-animated-badge.gif](https://chatgpt.com/backend-api/estuary/content?id=file_00000000391c81f5af69b86a7638b007&ts=497265&p=fs&cid=1&sig=6872d0ceac6622181ee51e1a86e2329722817870d6158a47cc4b0d01ea8d26b6&v=0)" width="300" alt="Microsoft Certified SQL AI Developer Associate"/>
-</p>
-
 Tech Stack
 
 💻 Languages
