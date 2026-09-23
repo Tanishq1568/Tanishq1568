@@ -13,7 +13,6 @@
 
 🚀 About Me
 
-- 🎓 B.Tech Student at Arya College of Engineering
 - 💻 Full Stack Web Developer
 - ☁️ Learning Microsoft Azure & Cloud Technologies
 - 🤖 Building AI Powered Applications
@@ -21,9 +20,9 @@
 
   🏆 Certifications
 
-<p align="center"> <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa"> <img src="YOUR_RHCSA_BADGE_IMAGE_URL" width="160" alt="Red Hat Certified System Administrator (RHCSA)"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://learn.microsoft.com/en-us/credentials/certifications/developing-ai-enabled-database-solutions/"> <img src="YOUR_DP800_BADGE_IMAGE_URL" width="160" alt="Microsoft Certified: SQL AI Developer Associate"> </a> </p>
-
-<p align="center"> <b>Red Hat Certified System Administrator (RHCSA)</b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>Microsoft Certified: SQL AI Developer Associate (DP-800)</b> </p>
+<p align="center">
+  <img src="https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-system-administrator-rhcsa" width="600" alt="RHCSA and Microsoft SQL AI Developer Associate Certifications">
+</p>
 
 Tech Stack
 
