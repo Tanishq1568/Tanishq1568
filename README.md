@@ -99,38 +99,4 @@ A healthcare management platform designed to connect patients with healthcare pr
 Screenshot
 ![Care Connect Screenshot](./screenshots/careconnect.png)
 
----
 
-3. Hotel Landing Page
-**Description:**  
-A modern and responsive hotel landing page showcasing rooms, amenities, booking options, and customer reviews with an attractive user interface.
-
-🔗 Live Demo: [Landing Page](https://hotel-pearl-heritage.vercel.app/)  
-💻 GitHub: [Hotel-Pearl-Heritage](https://github.com/Tanishq1568/Hotel-Pearl-Heritage)
-
-Screenshot
-![Hotel Landing Page Screenshot](./screenshots/heritage.png)
-
----
-
-4. Property Landing Page
-**Description:**  
-A real estate landing page designed to display premium properties, featured listings, pricing details, and contact information in a professional layout.
-
-🔗 Live Demo: [Property_Landing_Page](https://singhal-property.vercel.app/)  
-💻 GitHub: [Property-Landing-Page](https://github.com/Tanishq1568/Singhal-property)
-
-Screenshot
-![Property Landing Page Screenshot](./screenshots/estate.png)
-
----
-
-5. Personal Portfolio
-**Description:**  
-A personal portfolio website showcasing my skills, projects, certifications, and professional journey with a modern responsive design.
-
-🔗 Live Demo: [Tanishq Garg](https://portfolio-tanishq-garg.vercel.app/)  
-💻 GitHub: [Portfolio-Tanishq_Garg](https://github.com/Tanishq1568/Portfolio-Tanishq_Garg)
-
-Screenshot
-![Portfolio Screenshot](./screenshots/Portfolio.png)
